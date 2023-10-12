@@ -1,0 +1,21 @@
+        body {
+            background-color: grey;
+        }
+        
+        .firsthead {
+            margin-top: 6rem;
+            text-align: center;
+            font-size: 5rem;
+            font-weight: bold;
+            color: goldenrod;
+            /* background-color: grey; */
+        }
+        
+        .main {
+            /* border: solid red 10px; */
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            /* background-color: black; */
+            gap: 100px;
+        }
